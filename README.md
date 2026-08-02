@@ -5,7 +5,7 @@
 - Frontend: React + Vite + Tailwind CSS
 - Backend: Express.js
 - ข้อมูลระยะแรก: เก็บในหน่วยความจำของ Server เพื่อให้ทดลองระบบได้ก่อน
-- ขั้นถัดไป: เปลี่ยนไปใช้ MongoDB Atlas
+- ฐานข้อมูล: MongoDB Atlas สำหรับจัดเก็บข้อมูลแบบถาวร
 
 ## 0) ตรวจสอบ Node.js
 
