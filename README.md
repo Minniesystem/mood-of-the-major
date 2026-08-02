@@ -6,6 +6,14 @@
 - Backend: Express.js
 - ฐานข้อมูล: MongoDB Atlas สำหรับจัดเก็บข้อมูลแบบถาวร
 
+  ## Demo
+
+Frontend
+https://mood-of-the-major-9rr3.vercel.app
+
+Backend API
+https://mood-of-the-major-nine.vercel.app/api/health
+
 ## 0) ตรวจสอบ Node.js
 
 เปิด Terminal ใน VS Code แล้วพิมพ์
@@ -27,17 +35,10 @@ npm install
 npm run dev
 ```
 
-ถ้าสำเร็จจะเห็น
 
-```text
-Mood API is running at http://localhost:4000
-```
 
-ทดสอบใน Browser:
+ทดสอบใน Browser
 
-```text
-http://localhost:4000/api/health
-```
 
 ## 2) เปิด Frontend
 
@@ -49,11 +50,7 @@ npm install
 npm run dev
 ```
 
-เปิดลิงก์ที่ Terminal แสดง โดยปกติคือ
-
-```text
-http://localhost:5173
-```
+เปิดลิงก์ที่ Terminal แสดง 
 
 ## 3) ทดลองใช้งาน
 
