@@ -22,7 +22,7 @@ const majorsByFaculty = {
   วิทยาศาสตร์: ["เคมี", "ชีววิทยา", "คณิตศาสตร์", "วิทยาการคอมพิวเตอร์"],
   บริหารธุรกิจ: ["การตลาด", "การเงิน", "การจัดการ", "บัญชี"],
 };
-const API_URL = "http://localhost:4000/api";
+const API_URL = "https://mood-of-the-major-nine.vercel.app";
 
 
 
