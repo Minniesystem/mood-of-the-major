@@ -7,7 +7,7 @@ const app = express();
 const PORT = process.env.PORT || 4000;
 
 app.use(helmet());
-app.use(cors({ origin: ["http://localhost:5173", "https://mood-of-the-major-nine.vercel.app"] }));
+app.use(cors({ origin: ["http://localhost:5173", "https://mood-of-the-major-9rr3.vercel.app"] }));
 app.use(express.json({ limit: "20kb" }));
 
 app.get("/api/health", (_req, res) => {
